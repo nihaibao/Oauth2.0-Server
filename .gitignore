@@ -1,8 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
-.idea
-.idea/Oauth2.0-Server.iml
-.idea/cake_config_setting_v0_6.xml
-.idea/copyright/
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
+.idea/*
+.DS_Store/*
+*.patch
+/logs/*
+/vendor/*
